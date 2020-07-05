@@ -6814,10 +6814,10 @@ gatsby-theme-catalyst-header-top@^1.1.8:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-top/-/gatsby-theme-catalyst-header-top-1.1.8.tgz#6b35a571238e39ffbefeaac2c8b391dc30c86bc0"
   integrity sha512-8bQe23ZUEbCEUPB35cvUs2+2xFz8jIHDD0LH+O9A6Lu4qjjbIy9TDBe5gYOdXbBMg9B/53xbbJesR0ydDoXZjQ==
 
-gatsby-theme-catalyst-lithium@^0.1.4:
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-lithium/-/gatsby-theme-catalyst-lithium-0.1.4.tgz#c1695abe29b90616cf079078fc5d344f0da21efd"
-  integrity sha512-I/K9+UV/SZYgaTlyKL+OQqO6JCDfI/MbQDC8BodiBco1n9DcDBvVWzxA0ERUIf7w5PLtFR9q9AHDAI9C2hlqVA==
+gatsby-theme-catalyst-lithium@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-lithium/-/gatsby-theme-catalyst-lithium-1.0.0.tgz#d0a11eb8ec55830b3e5090f4bb3146b33f7b0da0"
+  integrity sha512-JkHAfwwMt0eCOj9OqmNdo5uHpUHn6GHm8mrtuUNOMaHp4G30BovfKrxeqzy1z3h4O+aGM5E6id+wXF7BaVnRYg==
   dependencies:
     gatsby-theme-catalyst-blog "^2.4.3"
     gatsby-theme-catalyst-core "^1.2.15"
