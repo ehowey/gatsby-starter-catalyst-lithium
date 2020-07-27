@@ -6722,10 +6722,10 @@ gatsby-theme-catalyst-blog@^2.4.4:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-blog/-/gatsby-theme-catalyst-blog-2.4.4.tgz#5cd7dfeecdf288b82852ee00f0bcd53203019508"
   integrity sha512-VnrjfJ7nhk3JLTo+HTBVmmGfujG1yJ360iWZ/ghYiSq9cQjjDkoEfrp4F2JPPCX6WGfWR6GEuGXsEFA6hY3XJw==
 
-gatsby-theme-catalyst-core@^1.3.1:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-1.3.1.tgz#539fae563756cb1a9160a0ccb864c413d5ab720b"
-  integrity sha512-lhoJGhZwZ3TpKY6H2Nlso7XMAqrPnRILaJfqV/+30CxAPh0abkXom64sR+TGIC/y6RM35NltlDZ1aSpYcQ+wOw==
+gatsby-theme-catalyst-core@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-2.0.0.tgz#96a6cca6f27da18ae5321eac88120d7f84baae9f"
+  integrity sha512-FNu/vEMQXIYz726QW/w/J7zaeWSXCpF1V7infjb/wMn7AsUUQT41VAkGsssX+5bXomytYq/3OrpzXY/nuKEgtg==
   dependencies:
     "@mdx-js/mdx" "^1.6.14"
     "@mdx-js/react" "^1.6.14"
@@ -6780,13 +6780,13 @@ gatsby-theme-catalyst-header-top@^1.1.9:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-top/-/gatsby-theme-catalyst-header-top-1.1.9.tgz#d51640860f29caa002403fdf8dafe6687abd4fbb"
   integrity sha512-TW6AFIgIp5Si/ugntBLo1kcrpEJtcxIE9NQKUZG5r21GqoQzqE1fbLCg7I+vHJ2WeJ8MOx0x5O1gOLkLu11HxQ==
 
-gatsby-theme-catalyst-lithium@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-lithium/-/gatsby-theme-catalyst-lithium-1.1.1.tgz#9eb56a329b7efaab75a7c3c9ca88af404691c98e"
-  integrity sha512-ddyZXThb3vHssbFdepJiYoB+LzoJxLw3ykC3CgrrfqA/Op3tRJGzPeTIIng9hEQqDqCo5PVx1vBpMLIR78tsjA==
+gatsby-theme-catalyst-lithium@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-lithium/-/gatsby-theme-catalyst-lithium-2.0.0.tgz#a010161957e0c1d2f471122dc81c8cb42d5064d9"
+  integrity sha512-PDlJxye6lP3NruL6Gx10N5D7k9H9amX58UWY0vTMe03WCLiwd/1cA/gvU1SMPcRD5tKDv2wh2nGaFBHn4/OzkQ==
   dependencies:
     gatsby-theme-catalyst-blog "^2.4.4"
-    gatsby-theme-catalyst-core "^1.3.1"
+    gatsby-theme-catalyst-core "^2.0.0"
     gatsby-theme-catalyst-footer "^1.1.7"
     gatsby-theme-catalyst-header-top "^1.1.9"
 
