@@ -7436,20 +7436,20 @@ gatsby-theme-catalyst-footer@^1.2.2:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer/-/gatsby-theme-catalyst-footer-1.2.2.tgz#d625b7e7cd0b336344fde861d20dfa6be59bd155"
   integrity sha512-ZaWuVBL2M6x/K+Dxqi76b6a8necABZhS1tLl64UGjSJA/wVeJIpSiYIxra2uMEkOXzAdUsRw6RjSTFtZjby6Wg==
 
-gatsby-theme-catalyst-header-top@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-top/-/gatsby-theme-catalyst-header-top-1.4.0.tgz#b2135eb6d29917c0b077d9faabe9537a7d42bd66"
-  integrity sha512-tCiiSjF9FU6rXp4DlYcBzEReP8X3SzQbr+QDBTm3hA0JaZIxdifGkB0tkMNZ3V3YjNKOcISj4z62AviDss87zQ==
+gatsby-theme-catalyst-header-top@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-top/-/gatsby-theme-catalyst-header-top-1.4.1.tgz#4cfdaa1fb6b256be0cfbefc2140471a1249408db"
+  integrity sha512-nwJRxkZGeOUnQE5/RJI5VWU0k4PZDeGjc06KDHTKW+p1rxXcvBSifoTUEj+wfP7S7hNWA59jfgrCHxwE+oqslw==
 
-gatsby-theme-catalyst-lithium@^2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-lithium/-/gatsby-theme-catalyst-lithium-2.3.0.tgz#04775856432f75ff7ef77d795be8e8e59a5324c3"
-  integrity sha512-Bb39uQL5WgV3fpe+jpn4w5SVnngZFHV+3lzlVNn6corxixMWKgXgqRJvUzvKIf8ZCnkIYUYTIE0mzRiUi9zVww==
+gatsby-theme-catalyst-lithium@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-lithium/-/gatsby-theme-catalyst-lithium-2.3.1.tgz#2292b963185f3caea7fa99c8a72fc8d774891710"
+  integrity sha512-PRZlbwIfvhvganyVpmuDI3kfX+490hp1anHkvfVgXnbJrW9nyy2yAml11+zA4i1O4K1Sz68Z72ohCyJipqjkEw==
   dependencies:
     gatsby-theme-catalyst-blog "^2.6.2"
     gatsby-theme-catalyst-core "^2.3.0"
     gatsby-theme-catalyst-footer "^1.2.2"
-    gatsby-theme-catalyst-header-top "^1.4.0"
+    gatsby-theme-catalyst-header-top "^1.4.1"
 
 gatsby-transformer-json@^2.4.14:
   version "2.4.14"
@@ -12286,12 +12286,12 @@ pretty-bytes@^5.1.0, pretty-bytes@^5.3.0, pretty-bytes@^5.4.1:
   integrity sha512-s1Iam6Gwz3JI5Hweaz4GoCD1WUNUIyzePFy5+Js2hjwGVt2Z79wNN+ZKOZ2vB6C+Xs6njyB84Z1IthQg8d9LxA==
 
 pretty-error@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/pretty-error/-/pretty-error-2.1.1.tgz#5f4f87c8f91e5ae3f3ba87ab4cf5e03b1a17f1a3"
-  integrity sha1-X0+HyPkeWuPzuoerTPXgOxoX8aM=
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/pretty-error/-/pretty-error-2.1.2.tgz#be89f82d81b1c86ec8fdfbc385045882727f93b6"
+  integrity sha512-EY5oDzmsX5wvuynAByrmY0P0hcp+QpnAKbJng2A2MPjVKXCxrDSUkzghVJ4ZGPIv+JC4gX8fPUWscC0RtjsWGw==
   dependencies:
-    renderkid "^2.0.1"
-    utila "~0.4"
+    lodash "^4.17.20"
+    renderkid "^2.0.4"
 
 pretty-format@^25.5.0:
   version "25.5.0"
@@ -13320,16 +13320,16 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
-renderkid@^2.0.1:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/renderkid/-/renderkid-2.0.3.tgz#380179c2ff5ae1365c522bf2fcfcff01c5b74149"
-  integrity sha512-z8CLQp7EZBPCwCnncgf9C4XAi3WR0dv+uWu/PjIyhhAb5d6IJ/QZqlHFprHeKT+59//V6BNUsLbvN8+2LarxGA==
+renderkid@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/renderkid/-/renderkid-2.0.4.tgz#d325e532afb28d3f8796ffee306be8ffd6fc864c"
+  integrity sha512-K2eXrSOJdq+HuKzlcjOlGoOarUu5SDguDEhE7+Ah4zuOWL40j8A/oHvLlLob9PSTNvVnBd+/q0Er1QfpEuem5g==
   dependencies:
     css-select "^1.1.0"
     dom-converter "^0.2"
     htmlparser2 "^3.3.0"
+    lodash "^4.17.20"
     strip-ansi "^3.0.0"
-    utila "^0.4.0"
 
 repeat-element@^1.1.2:
   version "1.1.3"
@@ -15850,7 +15850,7 @@ util@^0.11.0:
   dependencies:
     inherits "2.0.3"
 
-utila@^0.4.0, utila@~0.4:
+utila@~0.4:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/utila/-/utila-0.4.0.tgz#8a16a05d445657a3aea5eecc5b12a4fa5379772c"
   integrity sha1-ihagXURWV6Oupe7MWxKk+lN5dyw=
