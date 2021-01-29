@@ -6941,10 +6941,10 @@ gatsby-theme-catalyst-blog@^2.6.3:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-blog/-/gatsby-theme-catalyst-blog-2.6.3.tgz#9ed3fd8fb2465f7cb488b05e267dbcdaf2c65898"
   integrity sha512-Qt67ypGotor0IhaMxT4Gt5Exllgw/9NBpIFH+FgV8o/OaTkvO2vnDONOpVcfKbz2q3tRHUxk5PKTLzjTVR/82g==
 
-gatsby-theme-catalyst-core@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-3.1.0.tgz#5a84c7c7899f58b538866734cb26cc9dbadcca26"
-  integrity sha512-ck1Xy6zN57b3VaS7VOl7ov8Zb3N2ESYHqVbuPZiuQpZW1bKYBc1a8t/EL7sGbbXl5+Pd2QCgcb4b6ONKisqnnQ==
+gatsby-theme-catalyst-core@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-3.1.1.tgz#6da1afee14db81efbc1f35ab8f35e033bd093c95"
+  integrity sha512-NRpGm/q5yCqun5OuHS2b+cn12e0vjOxbfgSPzqqyVJGTW59EiJXiNmaZobUUftM+FDy0SUhMIcNb+UstNpv7vg==
   dependencies:
     "@mdx-js/mdx" "^1.6.21"
     "@mdx-js/react" "^1.6.21"
@@ -6999,13 +6999,13 @@ gatsby-theme-catalyst-header-top@^1.5.6:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-top/-/gatsby-theme-catalyst-header-top-1.5.6.tgz#0fee92fc79591c3d604e86162a0fda528388b904"
   integrity sha512-JkfUangcLA7t+ULG3wB+h/rVOkXBtu3V+GS/LdOMdd8N797RMRDejwwWMqALo2yAn8ePHXy+NMZIFB6w0bsPQw==
 
-gatsby-theme-catalyst-lithium@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-lithium/-/gatsby-theme-catalyst-lithium-3.1.0.tgz#fb23d2eb2f4a03f7a3a40c3042047c583e777a79"
-  integrity sha512-F52mOandkuWstD7vcVSHptS4CbG5CLnqejcL+aUbYPQvVk5CCNw4R6jp7qXQIwLjh5PuzQeDVr6MztoJANoudA==
+gatsby-theme-catalyst-lithium@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-lithium/-/gatsby-theme-catalyst-lithium-3.1.1.tgz#df9a4edd676f92fe8f4a1eef3ceae2a4763fb3bd"
+  integrity sha512-hjsA49kcj4H0MXHP7cz24fP1vpgatXV7hPv9l6XaprW4uBycqiCRvgPVDbE/ZedaZP41shezC63CWHtkdB/EQA==
   dependencies:
     gatsby-theme-catalyst-blog "^2.6.3"
-    gatsby-theme-catalyst-core "^3.1.0"
+    gatsby-theme-catalyst-core "^3.1.1"
     gatsby-theme-catalyst-footer "^1.2.3"
     gatsby-theme-catalyst-header-top "^1.5.6"
 
@@ -11688,7 +11688,7 @@ prepend-http@^2.0.0:
   resolved "https://registry.yarnpkg.com/prepend-http/-/prepend-http-2.0.0.tgz#e92434bfa5ea8c19f41cdfd401d741a3c819d897"
   integrity sha1-6SQ0v6XqjBn0HN/UAddBo8gZ2Jc=
 
-prettier@^2.0.5, prettier@^2.1.2:
+prettier@^2.0.5, prettier@^2.2.1:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.2.1.tgz#795a1a78dd52f073da0cd42b21f9c91381923ff5"
   integrity sha512-PqyhM2yCjg/oKkFPtTGUojv7gnZAoG80ttl45O6x2Ug/rMJw4wcc9k6aaf2hibP7BGVCCM33gZoGjyvt9mm16Q==
