@@ -6824,15 +6824,15 @@ gatsby-telemetry@^2.2.0:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby-theme-catalyst-blog@^6.0.0-beta.0:
-  version "6.0.0-beta.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-blog/-/gatsby-theme-catalyst-blog-6.0.0-beta.0.tgz#8c4570e7e3464549b15a3f58525919ff20fa4bf1"
-  integrity sha512-6jrjC9PbA16FXT8INb5HQ8EmD0K7I5BV1Z1VojbDsoIwltHGP9UhvDuufeaLRvd9ro3DomI+xh4Fr5c8wMhjig==
+gatsby-theme-catalyst-blog@^6.0.0-beta.1:
+  version "6.0.0-beta.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-blog/-/gatsby-theme-catalyst-blog-6.0.0-beta.1.tgz#9a9f595a194e10ed3d1f8a532452501df1f74383"
+  integrity sha512-Mytgr9Uxb6P6NBiaDy2FZ9Pc7vbHv/Kp5OljnMJdbvKrSkQyRKV8Kf343VIRY53Uls09FUcRnK5E6FtTJAQdGA==
 
-gatsby-theme-catalyst-core@^6.0.0-beta.0:
-  version "6.0.0-beta.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-6.0.0-beta.0.tgz#f312245585d5b414e9d2a4256715b503d35b4560"
-  integrity sha512-iljnh0iuOneaPf7LAkd32ogWvCExFCTWZb4SutJ3/7gvh33W6VrYk6O/LronMonkLQk3yZZqNmpG6vnr7lkDng==
+gatsby-theme-catalyst-core@^6.0.0-beta.1:
+  version "6.0.0-beta.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-6.0.0-beta.1.tgz#9be63b838f647b16790819258d2e1c2f931a6cbc"
+  integrity sha512-ojv7hY/sE8ac45hWkGLL7z5FgR90NzfRn9niuc/mNEw+0cDZ4nixhJl1jGf5yboCO+0gkhXnrX1HnerwPtvYcA==
   dependencies:
     "@mdx-js/mdx" "^1.6.22"
     "@mdx-js/react" "^1.6.22"
@@ -6877,25 +6877,25 @@ gatsby-theme-catalyst-core@^6.0.0-beta.0:
     remark-slug "^6.0.0"
     theme-ui "^0.6.1"
 
-gatsby-theme-catalyst-footer@^6.0.0-beta.0:
-  version "6.0.0-beta.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer/-/gatsby-theme-catalyst-footer-6.0.0-beta.0.tgz#80eef8745c93c04e655bdc94a3d0d6655565405c"
-  integrity sha512-4EjdDd8FpvbWWZA2KtcQGB3//adiRZakd8UUCGSy125XSXqpA49WS3TsiPVf5iE70hACCtR2JKKVzEDBBAYlvw==
+gatsby-theme-catalyst-footer@^6.0.0-beta.1:
+  version "6.0.0-beta.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer/-/gatsby-theme-catalyst-footer-6.0.0-beta.1.tgz#a7e89689ed7838c5341998a0e479692f61d6a750"
+  integrity sha512-3BQHjR4+x0qTMKBQXF5OstbCqCZXqcs7q40J8w/bSgl3TJlUPxths3YD7hAypFOMeQhx4yxfhuPyS+jMYdXa2Q==
 
-gatsby-theme-catalyst-header-top@^6.0.0-beta.0:
-  version "6.0.0-beta.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-top/-/gatsby-theme-catalyst-header-top-6.0.0-beta.0.tgz#43169d149417210e51dafe2e0cc260c92e709513"
-  integrity sha512-0IE/Q5YWRR6oZe9Ya2bPr1BKR/BWZ46fllPwngsQMIzTxp2f3bhX4zy9VE/Q7k1hoIuOxYcsLSocpaptBplJrg==
+gatsby-theme-catalyst-header-top@^6.0.0-beta.1:
+  version "6.0.0-beta.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-top/-/gatsby-theme-catalyst-header-top-6.0.0-beta.1.tgz#ff58824be87d66f1e8a2956c1729f26cd0387166"
+  integrity sha512-5UtDJPucaMm8BZ9X0V8beAOtFyHoD26lYJRZmsBh4/mGuWypo4h8MZm6nriI2y7wBpkTW35pDI/DyZjcZ8doVA==
 
-gatsby-theme-catalyst-lithium@^6.0.0-beta.0:
-  version "6.0.0-beta.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-lithium/-/gatsby-theme-catalyst-lithium-6.0.0-beta.0.tgz#efca91c3c34d2d5dacb0cf379b91a2718a5c5bf0"
-  integrity sha512-bc3b5VDZd5unRc8A5ZNMHYr9Bl8/krB8fiWd7RwXWSVhr1xb/uv16F1q3bAdEDQz8PUgre9ZjDTokPO6VZLDlQ==
+gatsby-theme-catalyst-lithium@^6.0.0-beta.1:
+  version "6.0.0-beta.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-lithium/-/gatsby-theme-catalyst-lithium-6.0.0-beta.1.tgz#b3de2485c303fed9ae03f81e582558cc06a97127"
+  integrity sha512-e8clTsJFfEbQT6FjOYUolbgHSng+du72JVqeU/4ipxEyZZfOq2UwKIj1F0wt3uh601gTd15BLo3Eke6OGEEqoA==
   dependencies:
-    gatsby-theme-catalyst-blog "^6.0.0-beta.0"
-    gatsby-theme-catalyst-core "^6.0.0-beta.0"
-    gatsby-theme-catalyst-footer "^6.0.0-beta.0"
-    gatsby-theme-catalyst-header-top "^6.0.0-beta.0"
+    gatsby-theme-catalyst-blog "^6.0.0-beta.1"
+    gatsby-theme-catalyst-core "^6.0.0-beta.1"
+    gatsby-theme-catalyst-footer "^6.0.0-beta.1"
+    gatsby-theme-catalyst-header-top "^6.0.0-beta.1"
 
 gatsby-transformer-json@^3.2.0:
   version "3.2.0"
