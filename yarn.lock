@@ -6910,7 +6910,7 @@ gatsby-transformer-yaml@^3.4.0:
     lodash "^4.17.21"
     unist-util-select "^1.5.0"
 
-gatsby@^3.4.0:
+gatsby@^3.5.0:
   version "3.5.0"
   resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-3.5.0.tgz#a0e7dd4310c585120d8b1782a3d1f8a3272b580e"
   integrity sha512-xQXHC89ybLCYPWA0TTsY6my8mLCrtH2M/UKOrXaiU7DeNwLb7pLYJ915lo+Dtjj5yu43zMuLL/+jIDLm3FiOmQ==
