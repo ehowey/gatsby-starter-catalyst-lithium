@@ -1,5 +1,23 @@
 # Change Log
 
+## 7.0.6
+
+### Patch Changes
+
+- 9406eddd: Updates dev dependency for prettier to most recent version
+- Updated dependencies [9406eddd]
+  - gatsby-theme-catalyst-lithium@7.0.6
+
+## 7.0.5
+
+### Patch Changes
+
+- be72fb9b: Add in missing aria-expanded properties to dropdown buttons and the hamburger button for nav menus
+- ad9352b1: Update all internal dependencies
+- Updated dependencies [be72fb9b]
+- Updated dependencies [ad9352b1]
+  - gatsby-theme-catalyst-lithium@7.0.5
+
 ## 7.0.4
 
 ### Patch Changes
